@@ -20,6 +20,6 @@ Below is a *tentative* list of speakers for Spring 2023, and we will announce al
 3/31: No Talk  
 4/7: [Rajesh Jayaram](https://rajeshjayaram.com/)  
 4/14: [Xi Chen](https://www.cs.columbia.edu/~xichen/Welcome.html)  
-4/21: [Surbhi Goel](https://www.surbhigoel.com/)  
+<!-- 4/21: [Surbhi Goel](https://www.surbhigoel.com/) -->  
 4/28: [Sergei Vassilvitskii](https://theory.stanford.edu/~sergei/)  
 5/5: [Mordecai Golin](https://home.cse.ust.hk/~golin/)  
