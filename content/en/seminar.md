@@ -7,20 +7,20 @@ menu: main
 
 ---
 
-Below is a *tentative* list of speakers for Spring 2023, and we will announce all talks on the theory-group listserv.
+Below is a *tentative* list of speakers for Fall 2023, and we will announce all talks on the theory-group listserv.
+Talks are currently scheduled to take place at 12pm in room 401B of 3401 Walnut St.
 <!-- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -->
-1/27: [Erik Waingarten](https://sites.google.com/site/erikwaing/home)  
-2/10: [Yiping Ma](https://www.seas.upenn.edu/~yipingma/)  
-2/17: [Vasilis Gkatzelis](https://www.cs.drexel.edu/~gkatz/)  
-2/24: [Yahav Bechavod](https://yahavbe.github.io/)  
-3/3: [Sepehr Assadi](https://sepehr.assadi.info/)  
-3/10: [Huan Li](https://huanli.me/)  
-3/16: [Kamesh Munagala](https://www.kameshmunagala.org/)  
-3/24: [Zihan Tan](https://sites.google.com/view/zihantan)  
-3/31: No Talk  
-4/7: [Rajesh Jayaram](https://rajeshjayaram.com/)  
-4/14: [Xi Chen](https://www.cs.columbia.edu/~xichen/Welcome.html)  
-4/21: [Abhishek Shetty](https://ashettyv.github.io/)  
-4/28: [Sergei Vassilvitskii](https://theory.stanford.edu/~sergei/)  
-5/5: [Mordecai Golin](https://home.cse.ust.hk/~golin/)  
-<!-- 4/21: [Surbhi Goel](https://www.surbhigoel.com/) -->  
+9/1: [Jon Schneider](https://jschnei.github.io/)  
+9/8: [Kate Donahue](https://www.katedonahue.me/)  
+9/15: [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/)  
+9/22: [Aaron Roth](https://www.cis.upenn.edu/~aaroth/)  
+9/29: [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/)  
+10/6: TBD  
+10/13: TBD (fall break)  
+10/20: [Guy Blanc](https://web.stanford.edu/~gblanc/)  
+10/27: [Keegan Harris](https://keeganharris.github.io/)  
+11/3: [Surbhi Goel](https://www.surbhigoel.com/)  
+11/10: [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/)  
+11/17: TBD  
+11/24: No Talk (thanksgiving)  
+12/1: [Rocco Servedio](https://www.cs.columbia.edu/~rocco/)  
