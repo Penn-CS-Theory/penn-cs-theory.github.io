@@ -19,7 +19,7 @@ Talks are currently scheduled to take place at 12pm in room 401B of 3401 Walnut 
 10/13: TBD (fall break)  
 10/20: [Guy Blanc](https://web.stanford.edu/~gblanc/)  
 10/27: [Keegan Harris](https://keeganharris.github.io/)  
-11/3:  TBD
+11/3:  TBD  
 11/10: [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/)  
 11/17: [Surbhi Goel](https://www.surbhigoel.com/)   
 11/24: No Talk (thanksgiving)  
