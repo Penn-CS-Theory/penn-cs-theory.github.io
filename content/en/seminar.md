@@ -15,7 +15,7 @@ Talks are currently scheduled to take place at 12pm in room 401B of 3401 Walnut 
 9/15: [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/)  
 9/22: [Aaron Roth](https://www.cis.upenn.edu/~aaroth/)  
 9/29: [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/)  
-10/6: TBD  
+10/6: [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh)  
 10/13: TBD (fall break)  
 10/20: [Guy Blanc](https://web.stanford.edu/~gblanc/)  
 10/27: [Keegan Harris](https://keeganharris.github.io/)  
