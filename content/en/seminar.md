@@ -24,3 +24,5 @@ Talks are currently scheduled to take place at 12pm in room 401B of 3401 Walnut 
 11/17: [Surbhi Goel](https://www.surbhigoel.com/)   
 11/24: No Talk (thanksgiving)  
 12/1: [Rocco Servedio](https://www.cs.columbia.edu/~rocco/)  
+
+Talks will resume again in January.
