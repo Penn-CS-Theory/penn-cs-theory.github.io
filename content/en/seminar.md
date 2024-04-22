@@ -7,7 +7,7 @@ menu: main
 
 ---
 
-The theory seminar is currently scheduled at 12pm in room 401B of 3401 Walnut St.
+The theory seminar is currently on Fridays at 12pm in room 401B of 3401 Walnut St.
 All talks are announced on the theory-group listserv; you can sign up [here](https://lists.seas.upenn.edu/mailman/listinfo/theory-group).
 
 <!-- Below is a *tentative* list of speakers for Fall 2023, and we will announce all talks on the theory-group listserv. -->
