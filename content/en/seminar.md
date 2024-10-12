@@ -10,22 +10,15 @@ menu: main
 The theory seminar is currently on Fridays at 12pm in room 401B of 3401 Walnut St.
 All talks are announced on the theory-group listserv; you can sign up [here](https://lists.seas.upenn.edu/mailman/listinfo/theory-group).
 
-<!-- Below is a *tentative* list of speakers for Fall 2023, and we will announce all talks on the theory-group listserv. -->
-<!-- Talks are currently scheduled to take place at 12pm in room 401B of 3401 Walnut St. -->
-<!-- <!-1- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -1-> -->
-<!-- 9/1: [Jon Schneider](https://jschnei.github.io/) -->  
-<!-- 9/8: [Kate Donahue](https://www.katedonahue.me/) -->  
-<!-- 9/15: [Shivam Nadimpalli](https://www.cs.columbia.edu/~nadimpalli/) -->  
-<!-- 9/22: [Aaron Roth](https://www.cis.upenn.edu/~aaroth/) -->  
-<!-- 9/29: [Brendan Lucier](https://www.microsoft.com/en-us/research/people/brlucier/) -->  
-<!-- 10/6: [Rad Niazadeh](https://faculty.chicagobooth.edu/rad-niazadeh) -->  
-<!-- 10/13: No Talk (Fall Break) -->  
-<!-- 10/20: [Guy Blanc](https://web.stanford.edu/~gblanc/) -->  
-<!-- 10/27: [Keegan Harris](https://keeganharris.github.io/) -->  
-<!-- 11/3:  [Leon Musolff](https://www.lmusolff.com/) -->  
-<!-- 11/10: [Akshay Krishnamurthy](https://people.cs.umass.edu/~akshay/) -->  
-<!-- 11/17: [Surbhi Goel](https://www.surbhigoel.com/) -->   
-<!-- 11/24: No Talk (thanksgiving) -->  
-<!-- 12/1: [Rocco Servedio](https://www.cs.columbia.edu/~rocco/) -->  
+Below is a *tentative* list of speakers for the rest of Fall 2024.
+ <!--<!-1- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -1-> -->
+10/18: [Justin Whitehouse](https://jwhitehouse11.github.io/)   
+10/25: TBD   
+11/1: [Grant Schoenebeck](https://schoeneb.people.si.umich.edu/)   
+11/8: Yiqaio Bao   
+11/15: [Ainesh Bakshi](https://www.aineshbakshi.com/)   
+11/22: [Anupam Gupta](https://cs.nyu.edu/~anupamg/)   
+11/29: No Talk (thanksgiving)   
+12/6: Shervin Khalafi   
 
 <!-- Talks will resume again in January. -->
