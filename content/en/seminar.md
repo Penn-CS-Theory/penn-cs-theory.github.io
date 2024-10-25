@@ -13,7 +13,7 @@ All talks are announced on the theory-group listserv; you can sign up [here](htt
 Below is a *tentative* list of speakers for the rest of Fall 2024.
  <!--<!-1- In markdown, 2 spaces at end of line is for newline, thus the trailing whitespace -1-> -->
 10/18: [Justin Whitehouse](https://jwhitehouse11.github.io/)   
-10/25: TBD   
+10/25: [Alejandro Ribeiro](https://alelab.seas.upenn.edu/)
 11/1: [Grant Schoenebeck](https://schoeneb.people.si.umich.edu/)   
 11/8: Yiqaio Bao   
 11/15: [Ainesh Bakshi](https://www.aineshbakshi.com/)   
