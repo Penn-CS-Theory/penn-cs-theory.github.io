@@ -1,6 +1,6 @@
 ---
-title: "Theory Seminar Fall 2024: 9/13 through 12/06"
-date: 2024-09-13
+title: "Theory Seminar Spring 2025: 1/17 through 5/02"
+date: 2025-01-17
 ---
 
-The theory seminar is back for Fall 2024!  Talks will take place Fridays, 12-1pm in room 401b of 3401 Walnut.  The first schdueled talk is on September 13th, and the seminar is currently schdueled to run through December 6th. Hope to see you there!
+The theory seminar is back for Fall 2025!  Talks will take place Fridays, 12-1pm in Amy Guttman Hall 414.  The first schdueled talk is on January 17th, and the seminar is currently schdueled to run through May 2nd. Hope to see you there!
