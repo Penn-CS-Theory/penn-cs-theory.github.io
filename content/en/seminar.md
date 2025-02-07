@@ -12,10 +12,10 @@ All talks are announced on the theory-group listserv; you can sign up [here](htt
 
 Below is a *tenative* list of speakers for the rest of Spring 2025.
 
-2/14: [Nathan White](https://www.seas.upenn.edu/~nathanlw/)   
+3/28: [Natalie Collina](https://www.seas.upenn.edu/~ncollina/)   
 2/21: John Langford   
 2/28: [Zak Mhammedi](https://www.zakmhammedi.com/)   
-3/28: [Natalie Collina](https://www.seas.upenn.edu/~ncollina/)   
+4/04: [Nathan White](https://www.seas.upenn.edu/~nathanlw/)   
 4/11: [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/)   
 4/18: [Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/)   
 5/2: [Huacheng Yu](https://www.cs.princeton.edu/~hy2/)   
