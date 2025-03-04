@@ -16,6 +16,7 @@ Below is a *tenative* list of speakers for the rest of Spring 2025.
 2/21: John Langford   
 2/28: [Zak Mhammedi](https://www.zakmhammedi.com/)   
 3/7: [Natalie Collina](https://www.seas.upenn.edu/~ncollina/)   
+3/14: Spring Break (no talk)   
 3/21: PhD Visit Days (no talk)   
 4/04: [Nathan White](https://www.seas.upenn.edu/~nathanlw/)   
 4/11: [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/)   
