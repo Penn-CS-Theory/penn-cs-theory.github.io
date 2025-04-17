@@ -21,7 +21,6 @@ Below is a *tenative* list of speakers for the rest of Spring 2025.
 4/04: [Nathan White](https://www.seas.upenn.edu/~nathanlw/)   
 4/11: [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/)   
 4/18: [Rahul Mangharam](https://www.seas.upenn.edu/~rahulm/)   
-4/25: Benjamin Lauffer   
 5/2: [Huacheng Yu](https://www.cs.princeton.edu/~hy2/)   
 
 <!-- Talks will resume again in January. -->
