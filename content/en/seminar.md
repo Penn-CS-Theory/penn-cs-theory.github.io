@@ -24,7 +24,8 @@ Below is a tenative list of speakers for Fall 2025.
 10/17: [Sophie Yu](https://sophieyu.me/)   
 10/24: [Ashwin Padaki](https://apadaki.github.io/)   
 11/14: [Krish Singal](https://krishsingal.github.io/)   
-<!-- 11/21: [Alessio Russo]() -->
+11/21: [Alessio Russo](https://www.alessiorusso.net/)   
+11/28: Thanksgiving (no talk)
 
 <!-- 2/21: John Langford -->   
 <!-- 2/28: [Zak Mhammedi](https://www.zakmhammedi.com/) -->   
