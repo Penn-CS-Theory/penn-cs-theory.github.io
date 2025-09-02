@@ -1,108 +1,109 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Penn CS Theory Group</title><link>https://theory.cis.upenn.edu/</link><description>Recent content on Penn CS Theory Group</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://theory.cis.upenn.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Theory Seminar Spring 2025: 1/17 through 5/02</title><link>https://theory.cis.upenn.edu/post/theoryseminar/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/post/theoryseminar/</guid><description>&lt;p>The theory seminar is back for Spring 2025! Talks will take place Fridays, 12-1pm in Amy Guttman Hall 414. The first schdueled talk is on January 17th, and the seminar is currently schdueled to run through May 2nd. Hope to see you there!&lt;/p></description></item><item><title>People</title><link>https://theory.cis.upenn.edu/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/people/</guid><description>&lt;h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Penn CS Theory Group</title><link>https://theory.cis.upenn.edu/</link><description>Recent content on Penn CS Theory Group</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://theory.cis.upenn.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Theory Seminar Spring 2025: 1/17 through 5/02</title><link>https://theory.cis.upenn.edu/post/theoryseminar/</link><pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/post/theoryseminar/</guid><description>&lt;p&gt;The theory seminar is back for Spring 2025! Talks will take place Fridays, 12-1pm in Amy Guttman Hall 414. The first schdueled talk is on January 17th, and the seminar is currently schdueled to run through May 2nd. Hope to see you there!&lt;/p&gt;</description></item><item><title>People</title><link>https://theory.cis.upenn.edu/people/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/people/</guid><description>&lt;h1&gt;
  Faculty
-&lt;/h1>
-&lt;body class="padded">
-&lt;!-- &lt;div class="visibledesktop">this displays for desktop and tablet&lt;/div> -->
-&lt;!-- &lt;div class="visibledevice">this displays for mobile&lt;/div> -->
-&lt;div class="img-row">
- &lt;div class="img-container">
- &lt;!-- paths _must_ be realitive (or at least must be for github project pages) -->
- &lt;img src="../profs/de-anindya.jpg" alt="Headshot of Anindya De">
- &lt;div class="img-name">&lt;a href="https://www.seas.upenn.edu/~anindyad/">Anindya De&lt;/a>&lt;/div>
- &lt;div class="interests">Boolean function analysis, Computational Complexity, Learning Theory&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/hemenway-brett.jpg" alt="Headshot of Brett Hemenway Falk">
- &lt;div class="img-name">&lt;a href="https://www.cis.upenn.edu/~fbrett/">Brett Hemenway Falk&lt;/a>&lt;/div>
- &lt;div class="interests">Cryptography, Coding Theory, Security&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/Surbhi_Goel.jpeg" alt="Headshot of Surbhi Goel">
- &lt;div class="img-name">&lt;a href="https://www.surbhigoel.com/">Surbhi Goel&lt;/a>&lt;/div>
- &lt;div class="interests">Machine Learning, Learning Theory&lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;div class="img-row">
- &lt;div class="img-container">
- &lt;img src="../profs/kannan-sampath.jpg" alt="Headshot of Sampath Kannan">
- &lt;div class="img-name">&lt;a href="https://www.cis.upenn.edu/~kannan/">Sampath Kannan&lt;/a>&lt;/div>
- &lt;div class="interests">Algorithms for Big Data, Algorithmic Fairness, Computational Biology, Program Checking&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/kearns-michael.jpg" alt="Headshot of Michael Kearns">
- &lt;div class="img-name">&lt;a href="https://www.cis.upenn.edu/~mkearns/">Michael Kearns&lt;/a>&lt;/div>
- &lt;div class="interests">Algorithmic Fairness, Algorithmic Game Theory, Machine Learning&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/khanna-sanjeev.jpg" alt="Headshot of Sanjeev Khanna">
- &lt;div class="img-name">&lt;a href="https://www.cis.upenn.edu/~sanjeev/">Sanjeev Khanna&lt;/a>&lt;/div>
- &lt;div class="interests">Approximation Algorithms, Combinatorial Optimization, Sublinear Algorithms&lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;div class="img-row">
- &lt;div class="img-container">
- &lt;img src="../profs/Rabin-Tal.jpg" alt="Headshot of Tal Rabin">
- &lt;div class="img-name">&lt;a href="https://directory.seas.upenn.edu/tal-rabin/">Tal Rabin&lt;/a>&lt;/div>
- &lt;div class="interests">Blockchains, Cryptography, Secure Multiparty Computation&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/Roth-Aaron.jpg" alt="Headshot of Aaron Roth">
- &lt;div class="img-name">&lt;a href="https://www.cis.upenn.edu/~aaroth/">Aaron Roth&lt;/a>&lt;/div>
- &lt;div class="interests">Algorithmic Fairness, Differential Privacy, Machine Learning&lt;/div>
- &lt;/div>
- &lt;div class="img-container">
- &lt;img src="../profs/vohra-rakesh.jpg" alt="Headshot of Rakesh Vohra">
- &lt;div class="img-name">&lt;a href="https://sites.google.com/site/quaerereverum9/">Rakesh Vohra&lt;/a>&lt;/div>
- &lt;div class="interests">Mechanism Design, Auction Theory, Pricing Theory, Machine Learning&lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;div class="img-row">
- &lt;div class="img-container">
- &lt;img src="../profs/Waingarten_Erik.jpeg" alt="Headshot of Erik Waingarten">
- &lt;div class="img-name">&lt;a href="https://sites.google.com/site/erikwaing/home">Erik Waingarten&lt;/a>&lt;/div>
- &lt;div class="interests">Algorithms for Massive Datasets, Property Testing, Distribution Testing&lt;/div>
- &lt;/div>
-&lt;/div>
-&lt;/body>
-&lt;h1>
+&lt;/h1&gt;
+&lt;body class="padded"&gt;
+&lt;!-- &lt;div class="visibledesktop"&gt;this displays for desktop and tablet&lt;/div&gt; --&gt;
+&lt;!-- &lt;div class="visibledevice"&gt;this displays for mobile&lt;/div&gt; --&gt;
+&lt;div class="img-row"&gt;
+ &lt;div class="img-container"&gt;
+ &lt;!-- paths _must_ be realitive (or at least must be for github project pages) --&gt;
+ &lt;img src="../profs/de-anindya.jpg" alt="Headshot of Anindya De"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.seas.upenn.edu/~anindyad/"&gt;Anindya De&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Boolean function analysis, Computational Complexity, Learning Theory&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/hemenway-brett.jpg" alt="Headshot of Brett Hemenway Falk"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.cis.upenn.edu/~fbrett/"&gt;Brett Hemenway Falk&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Cryptography, Coding Theory, Security&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/Surbhi_Goel.jpeg" alt="Headshot of Surbhi Goel"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.surbhigoel.com/"&gt;Surbhi Goel&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Machine Learning, Learning Theory&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="img-row"&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/kannan-sampath.jpg" alt="Headshot of Sampath Kannan"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.cis.upenn.edu/~kannan/"&gt;Sampath Kannan&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Algorithms for Big Data, Algorithmic Fairness, Computational Biology, Program Checking&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/kearns-michael.jpg" alt="Headshot of Michael Kearns"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.cis.upenn.edu/~mkearns/"&gt;Michael Kearns&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Algorithmic Fairness, Algorithmic Game Theory, Machine Learning&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/khanna-sanjeev.jpg" alt="Headshot of Sanjeev Khanna"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.cis.upenn.edu/~sanjeev/"&gt;Sanjeev Khanna&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Approximation Algorithms, Combinatorial Optimization, Sublinear Algorithms&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="img-row"&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/Rabin-Tal.jpg" alt="Headshot of Tal Rabin"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://directory.seas.upenn.edu/tal-rabin/"&gt;Tal Rabin&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Blockchains, Cryptography, Secure Multiparty Computation&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/Roth-Aaron.jpg" alt="Headshot of Aaron Roth"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://www.cis.upenn.edu/~aaroth/"&gt;Aaron Roth&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Algorithmic Fairness, Differential Privacy, Machine Learning&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/vohra-rakesh.jpg" alt="Headshot of Rakesh Vohra"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://sites.google.com/site/quaerereverum9/"&gt;Rakesh Vohra&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Mechanism Design, Auction Theory, Pricing Theory, Machine Learning&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="img-row"&gt;
+ &lt;div class="img-container"&gt;
+ &lt;img src="../profs/Waingarten_Erik.jpeg" alt="Headshot of Erik Waingarten"&gt;
+ &lt;div class="img-name"&gt;&lt;a href="https://sites.google.com/site/erikwaing/home"&gt;Erik Waingarten&lt;/a&gt;&lt;/div&gt;
+ &lt;div class="interests"&gt;Algorithms for Massive Datasets, Property Testing, Distribution Testing&lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;h1&gt;
  Postdocs
-&lt;/h1>
-&lt;body class="padded">
- &lt;a href="https://yahavbe.github.io/">Yahav Bechavod&lt;/a> &lt;br>
-&lt;/body>
-&lt;h1>
+&lt;/h1&gt;
+&lt;body class="padded"&gt;
+ &lt;a href="https://yahavbe.github.io/"&gt;Yahav Bechavod&lt;/a&gt; &lt;br&gt;
+&lt;/body&gt;
+&lt;h1&gt;
  PhD Students
-&lt;/h1>
-&lt;body>
- &lt;a href="https://www.seas.upenn.edu/~eshwar/">Eshwar Ram Arunachaleshwaran&lt;/a> &lt;br>
- Yiqiao Bao &lt;br>
- Anubhav Baweja &lt;br>
- David L Cao &lt;br>
- &lt;a href="https://www.seas.upenn.edu/~ncollina/">Natalie Collina&lt;/a> &lt;br>
- &lt;a href="https://www.ezraedelman.com">Ezra Edelman&lt;/a> &lt;br>
- &lt;a href="https://globusharris.github.io">Ira Globus-Harris&lt;/a> &lt;br>
- &lt;a href="https://guptavarun.com/">Varun Gupta&lt;/a> &lt;br>
- &lt;a href="https://nmenand.github.io">Nicolas Menand&lt;/a> &lt;br>
- &lt;a href="https://noarov.com/">Georgy Noarov&lt;/a> &lt;br>
- &lt;a href="https://apadaki.github.io/">Ashwin Padaki&lt;/a> &lt;br>
- &lt;a href="https://www.seas.upenn.edu/~ramya23/">Ramya Ramalingam&lt;/a> &lt;br>
- &lt;a href="https://psamathe50.github.io/sikatasengupta/">Sikata Sengupta&lt;/a> &lt;br>
- &lt;a href="https://www.seas.upenn.edu/~mirahshi/">Mirah Shi&lt;/a> &lt;br>
- &lt;a href="https://krishsingal.github.io/">Krish Singal&lt;/a> &lt;br>
- Junkai Song &lt;br>
- &lt;a href="https://www.seas.upenn.edu/~nathanlw/">Nathan White&lt;/a> &lt;br>
- &lt;a href="https://www.seas.upenn.edu/~tianzh/">Tian Zhang&lt;/a> &lt;br>
-&lt;/body></description></item><item><title>Theory Seminar</title><link>https://theory.cis.upenn.edu/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/seminar/</guid><description>&lt;p>The theory seminar is back for Fall 2025! Talks are on Fridays from 12-1pm, usually in Amy Gutmann Hall room 414.
-All talks are announced on the theory-group listserv; you can sign up &lt;a href="https://lists.seas.upenn.edu/mailman/listinfo/theory-group">here&lt;/a>.&lt;/p>
-&lt;p>Below is a tenative list of speakers for Fall 2025.&lt;/p>
-&lt;p>9/5: &lt;a href="https://tomer-ezra.github.io/">Tomer Ezra&lt;/a>&lt;br>
-9/12: &lt;a href="https://yuhao.li/">Yuhao Li&lt;/a>&lt;br>
-9/26: &lt;a href="https://sites.google.com/view/gzli929/home">George Li&lt;/a>&lt;br>
-10/3: &lt;a href="https://www.kstavrop.com/">Kostas Stavropoulos&lt;/a>&lt;br>
-10/10: &lt;a href="https://mittaltushant.github.io/">Tushant Mittal&lt;/a>&lt;br>
-10/17: &lt;a href="https://sophieyu.me/">Sophie Yu&lt;/a>&lt;br>
-10/24: &lt;a href="https://krishsingal.github.io/">Krish Singal&lt;/a>&lt;br>
-10/31: &lt;a href="https://giannisfikioris.org/">Giannis Fikioris&lt;/a>&lt;br>
-11/14: &lt;a href="https://www.cs.columbia.edu/~andoni/">Alexandr Andoni&lt;/a>&lt;br>
-11/21: &lt;a href="https://www.alessiorusso.net/">Alessio Russo&lt;/a>&lt;br>
-11/28: Thanksgiving (no talk)&lt;/p></description></item></channel></rss>
+&lt;/h1&gt;
+&lt;body&gt;
+ &lt;a href="https://www.seas.upenn.edu/~eshwar/"&gt;Eshwar Ram Arunachaleshwaran&lt;/a&gt; &lt;br&gt;
+ Yiqiao Bao &lt;br&gt;
+ Anubhav Baweja &lt;br&gt;
+ David L Cao &lt;br&gt;
+ &lt;a href="https://www.seas.upenn.edu/~ncollina/"&gt;Natalie Collina&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://www.ezraedelman.com"&gt;Ezra Edelman&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://globusharris.github.io"&gt;Ira Globus-Harris&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://guptavarun.com/"&gt;Varun Gupta&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://nmenand.github.io"&gt;Nicolas Menand&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://noarov.com/"&gt;Georgy Noarov&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://apadaki.github.io/"&gt;Ashwin Padaki&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://www.seas.upenn.edu/~ramya23/"&gt;Ramya Ramalingam&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://psamathe50.github.io/sikatasengupta/"&gt;Sikata Sengupta&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://www.seas.upenn.edu/~mirahshi/"&gt;Mirah Shi&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://krishsingal.github.io/"&gt;Krish Singal&lt;/a&gt; &lt;br&gt;
+ Junkai Song &lt;br&gt;
+ &lt;a href="https://www.seas.upenn.edu/~nathanlw/"&gt;Nathan White&lt;/a&gt; &lt;br&gt;
+ &lt;a href="https://www.seas.upenn.edu/~tianzh/"&gt;Tian Zhang&lt;/a&gt; &lt;br&gt;
+&lt;/body&gt;</description></item><item><title>Theory Seminar</title><link>https://theory.cis.upenn.edu/seminar/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://theory.cis.upenn.edu/seminar/</guid><description>&lt;p&gt;The theory seminar is back for Fall 2025! Talks are on Fridays from 12-1pm, usually in Amy Gutmann Hall room 414.
+All talks are announced on the theory-group listserv; you can sign up &lt;a href="https://lists.seas.upenn.edu/mailman/listinfo/theory-group"&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Below is a tenative list of speakers for Fall 2025.&lt;/p&gt;
+&lt;p&gt;9/5: &lt;a href="https://tomer-ezra.github.io/"&gt;Tomer Ezra&lt;/a&gt;&lt;br&gt;
+9/12: &lt;a href="https://yuhao.li/"&gt;Yuhao Li&lt;/a&gt;&lt;br&gt;
+9/26: &lt;a href="https://sites.google.com/view/gzli929/home"&gt;George Li&lt;/a&gt;&lt;br&gt;
+10/3: &lt;a href="https://www.kstavrop.com/"&gt;Kostas Stavropoulos&lt;/a&gt;&lt;br&gt;
+10/10: &lt;a href="https://mittaltushant.github.io/"&gt;Tushant Mittal&lt;/a&gt;&lt;br&gt;
+10/17: &lt;a href="https://sophieyu.me/"&gt;Sophie Yu&lt;/a&gt;&lt;br&gt;
+10/31: &lt;a href="https://giannisfikioris.org/"&gt;Giannis Fikioris&lt;/a&gt;&lt;br&gt;
+11/07: &lt;a href="https://krishsingal.github.io/"&gt;Krish Singal&lt;/a&gt;&lt;br&gt;
+11/14: &lt;a href="https://www.cs.columbia.edu/~andoni/"&gt;Alexandr Andoni&lt;/a&gt;&lt;br&gt;
+11/21: &lt;a href="https://www.alessiorusso.net/"&gt;Alessio Russo&lt;/a&gt;&lt;br&gt;
+11/28: Thanksgiving (no talk)
+12/05: &lt;a href="https://beepulbharti.github.io/"&gt;Beepul Bharti&lt;/a&gt;&lt;/p&gt;</description></item></channel></rss>
