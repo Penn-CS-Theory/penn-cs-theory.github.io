@@ -1,5 +1,5 @@
 ---
-title: "Theory Seminar Spring 2025: 1/17 through 5/02"
+title: "Theory Seminar Fall 2025: 9/05 through 12/05"
 date: 2025-09-05
 ---
 
