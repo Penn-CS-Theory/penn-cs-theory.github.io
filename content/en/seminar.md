@@ -26,7 +26,7 @@ Below is a tenative list of speakers for Fall 2025.
 11/07: [Krish Singal](https://krishsingal.github.io/)   
 11/14: [Alexandr Andoni](https://www.cs.columbia.edu/~andoni/)   
 11/21: [Alessio Russo](https://www.alessiorusso.net/)   
-11/28: Thanksgiving (no talk)
+11/28: Thanksgiving (no talk)   
 12/05: [Beepul Bharti](https://beepulbharti.github.io/)   
 
 <!-- 2/21: John Langford -->   
