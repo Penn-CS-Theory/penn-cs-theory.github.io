@@ -20,7 +20,7 @@ Below is a tenative list of speakers for the rest of the semester.
 2/27: [Daniil Dmitriev](https://daniildmitriev.github.io/)   
 3/6: [Noah Bergam](https://njbergam.github.io/)   
 3/13: Spring Break   
-3/20: [Eric Balkanski](https://ericbalkanski.com/)   
+<!-- 3/20: [Eric Balkanski](https://ericbalkanski.com/) -->   
 3/27: [Omer Gottesman](https://omergott.github.io/)   
 4/3: [Joe Carolan](https://josephcarolan.com/)   
 4/10: [Henry Fleischmann](https://hfleischmann3.github.io/)   
