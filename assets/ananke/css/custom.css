@@ -59,6 +59,12 @@ a {
     }
 }
 
+/* Bold the site name in the nav bar and the page title in every page's header */
+nav .f3.fw2,
+header .fw2.lh-title {
+  font-weight: 700;
+}
+
 /* Theory seminar schedule (layouts/shortcodes/seminar-schedule.html) */
 .seminar-schedule {
   width: 100%;
