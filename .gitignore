@@ -1,0 +1,4 @@
+# Hugo build output; the GitHub Pages workflow builds and deploys public/ itself
+/public/*
+!/public/CNAME
+.hugo_build.lock

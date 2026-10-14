@@ -1,4 +1,9 @@
 .measure-wide {   max-width: 64em; }
+
+/* No underlines on links anywhere on the site */
+a {
+  text-decoration: none;
+}
 .img-container {
   /* float: left; */
   width: 33.33%;
@@ -52,4 +57,156 @@
         margin-left: auto;
         margin-right: auto;
     }
+}
+
+/* Theory seminar schedule (layouts/shortcodes/seminar-schedule.html) */
+.seminar-schedule {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 1rem;
+  line-height: 1.45;
+  margin: 2rem 0 1rem;
+}
+.seminar-schedule th {
+  text-align: left;
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: #888;
+  padding: 0 .75rem .5rem;
+  border-bottom: 1px solid #ccc;
+}
+.seminar-schedule td {
+  vertical-align: top;
+  padding: .9rem .75rem;
+  border-bottom: 1px solid #e2e2e2;
+}
+.seminar-schedule th:first-child,
+.seminar-schedule td:first-child {
+  padding-left: 0;
+}
+.seminar-schedule th:last-child,
+.seminar-schedule td:last-child {
+  padding-right: 0;
+}
+.seminar-schedule .seminar-date {
+  width: 1%;
+  white-space: nowrap;
+  color: #555;
+  font-variant-numeric: tabular-nums;
+}
+.seminar-schedule .seminar-speaker {
+  width: 1%;
+  white-space: nowrap;
+  font-weight: 600;
+  color: #000;
+}
+/* Linked and unlinked speakers look the same; links only show on hover */
+.seminar-schedule .seminar-speaker a {
+  color: #000;
+}
+.seminar-schedule .seminar-speaker a:hover {
+  color: #357edd;
+}
+.seminar-schedule .seminar-affiliation {
+  font-size: .85rem;
+  font-weight: 400;
+  color: #555;
+}
+.seminar-schedule .seminar-title {
+  color: #333;
+}
+.seminar-schedule .seminar-tba {
+  color: #aaa;
+  font-style: italic;
+}
+.seminar-schedule .seminar-note {
+  color: #aaa;
+}
+
+.seminar-abstract summary {
+  display: inline-block;
+  list-style: none;
+  margin-top: .3rem;
+  font-size: .8rem;
+  color: #888;
+  cursor: pointer;
+  user-select: none;
+}
+.seminar-abstract summary::-webkit-details-marker {
+  display: none;
+}
+.seminar-abstract summary::before {
+  content: "\25B8";
+  display: inline-block;
+  width: 1em;
+  transition: transform .15s ease-in;
+}
+.seminar-abstract[open] summary::before {
+  transform: rotate(90deg);
+}
+.seminar-abstract summary:hover {
+  color: #357edd;
+}
+.seminar-abstract summary:focus {
+  outline: none;
+}
+.seminar-abstract summary:focus-visible {
+  outline: 2px solid #96ccff;
+  outline-offset: 2px;
+}
+.seminar-abstract-body {
+  margin: .5rem 0 .25rem;
+  padding-left: .85rem;
+  border-left: 2px solid #ddd;
+  font-size: .875rem;
+  line-height: 1.6;
+  color: #555;
+}
+.seminar-abstract-body p {
+  margin: 0 0 .6em;
+}
+.seminar-abstract-body p:last-child {
+  margin-bottom: 0;
+}
+
+/* On phones, stack each talk: date and speaker on one line, talk below */
+@media (max-width: 600px) {
+  .seminar-schedule thead {
+    display: none;
+  }
+  .seminar-schedule,
+  .seminar-schedule tbody,
+  .seminar-schedule tr,
+  .seminar-schedule td {
+    display: block;
+    width: auto;
+  }
+  .seminar-schedule tr {
+    padding: .8rem 0;
+    border-bottom: 1px solid #e2e2e2;
+  }
+  .seminar-schedule td {
+    padding: 0;
+    border: 0;
+  }
+  .seminar-schedule .seminar-date,
+  .seminar-schedule .seminar-speaker,
+  .seminar-schedule .seminar-note {
+    display: inline;
+  }
+  .seminar-schedule .seminar-date {
+    margin-right: .6rem;
+  }
+  .seminar-schedule .seminar-speaker {
+    white-space: normal;
+  }
+  .seminar-schedule .seminar-affiliation {
+    display: inline;
+    margin-left: .3rem;
+  }
+  .seminar-schedule .seminar-talk {
+    margin-top: .2rem;
+  }
 }

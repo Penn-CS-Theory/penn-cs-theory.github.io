@@ -1,0 +1,37 @@
+{{/* Renders the `talks` list from the page's front matter as a schedule table. */}}
+{{- $months := slice "Jan" "Feb" "Mar" "Apr" "May" "Jun" "Jul" "Aug" "Sep" "Oct" "Nov" "Dec" -}}
+<table class="seminar-schedule">
+  <thead>
+    <tr><th>Date</th><th>Speaker</th><th>Talk</th></tr>
+  </thead>
+  <tbody>
+    {{- range .Page.Params.talks }}
+    {{- $md := split .date "/" }}
+    {{- $month := index $months (sub (int (strings.TrimLeft "0" (index $md 0))) 1) }}
+    <tr{{ if .note }} class="seminar-off"{{ end }}>
+      <td class="seminar-date">{{ $month }} {{ index $md 1 }}</td>
+      {{- if .note }}
+      <td class="seminar-note" colspan="2">{{ .note }}</td>
+      {{- else }}
+      <td class="seminar-speaker">
+        {{- with .url }}<a href="{{ . }}">{{ end }}{{ .speaker }}{{ with .url }}</a>{{ end -}}
+        {{- with .affiliation }}<div class="seminar-affiliation">({{ . }})</div>{{ end -}}
+      </td>
+      <td class="seminar-talk">
+        {{- with .title }}
+        <div class="seminar-title">{{ . }}</div>
+        {{- else }}
+        <div class="seminar-tba">Title TBA</div>
+        {{- end }}
+        {{- with .abstract }}
+        <details class="seminar-abstract">
+          <summary>Abstract</summary>
+          <div class="seminar-abstract-body">{{ $.Page.RenderString (dict "display" "block") . }}</div>
+        </details>
+        {{- end }}
+      </td>
+      {{- end }}
+    </tr>
+    {{- end }}
+  </tbody>
+</table>
